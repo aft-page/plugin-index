@@ -2,6 +2,12 @@
   "version": 1,
   "plugins": [
     {
+      "name": "brain",
+      "repo_url": "https://github.com/entireio/entire-brain",
+      "description": "Build a local, inspectable repository brain from Entire session history",
+      "official": true
+    },
+    {
       "name": "graph",
       "repo_url": "https://github.com/entireio/entire-graph",
       "description": "Deterministic local code graph for symbol search, relationship tracing, and change-impact analysis",
